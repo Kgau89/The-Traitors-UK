@@ -23,4 +23,4 @@
 # Results
 Since the show had me captured, I was curious to know how the Twitter community found the show. It came as no surprise that Wilf was the most popular contestant. He was the ultimate traitor after all. Based on the sentiment analysis, the opinions are more positive than negative.
 # User Implications
-This type of analysis can benefit businesses in any context. Analysing Twitter perceptions can help managers to understand their customers better and make data-driven decisions.
+This type of analysis can benefit businesses in any context. Analysing Twitter perceptions can help managers to understand their customers better and make data-driven decisions. For example, in events management, sentiment analysis can give clarity on how attendees felt, and results can be used for continuous improvement.
