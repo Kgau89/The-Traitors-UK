@@ -21,6 +21,6 @@
 5. Dashboard Creation: I exported the Python data frame to Excel and built the Dashboard in Tableau
 
 # Results
-Since the show had me captured, I was curious to know how the Twitter community found the show. It came as no surprise that Wilf was the most popular contestant. He was the ultimate traitor after all. Based on the sentiment analysis, there is almost a fair split of Positive, Neutral and Negative perceptions.
+Since the show had me captured, I was curious to know how the Twitter community found the show. It came as no surprise that Wilf was the most popular contestant. He was the ultimate traitor after all. Based on the sentiment analysis, the opinions are more positive than negative.
 # User Implications
 This type of analysis can benefit businesses in any context. Analysing Twitter perceptions can help managers to understand their customers better and make data-driven decisions.
