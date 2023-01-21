@@ -10,15 +10,15 @@
 
 # Actions Taken
 
-1.Data Gathering: I scraped tweets using the SN (Social Network) Scrape library. A total of 5152 Tweets were extracted for Nov-Dec 2022.
+1. Data Gathering: I scraped tweets using the SN (Social Network) Scrape library. A total of 5152 Tweets were extracted for Nov-Dec 2022.
 2. Data Exploration
 3. Data Cleaning and Pre-processing: For this task, I used Regular Expressions (RE), Natural Language Toolkit (NLTK) and NeatText libraries to clean and pre-process the data, which involved
 -	Removal of hashtags, @mentions, urls, emojis, punctuation marks, whitespaces etc.
 -	Removal of Stopwords
 -	Word Tokenization
 -	Lemmatization (to draw meaning)
-4.Sentiment Analysis: This is derived from the polarity score
-5.Dashboard Creation: I exported the Python data frame to Excel and built the Dashboard in Tableau
+4. Sentiment Analysis: This is derived from the polarity score
+5. Dashboard Creation: I exported the Python data frame to Excel and built the Dashboard in Tableau
 
 # Results
 Since the show had me captured, I was curious to know how the Twitter community found the show. It came as no surprise that Wilf was the most popular contestant. He was the ultimate traitor after all. Based on the sentiment analysis, there is almost a fair split of Positive, Neutral and Negative perceptions.
