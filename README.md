@@ -1,4 +1,4 @@
-# The-Traitors-UK - A Twitter Sentiment Analysis
+# The-Traitors-UK - A X (Twitter) Sentiment Analysis
 
 # What is The Traitors UK?
 'The Traitors' is a tense psychological adventure competition where 22 strangers are moved into a castle in the Scottish Highlands to complete a series of challenges and missions together as a team. The catch, however, is that amongst the loyal contestants hoping to win a cash prize of up to £120,000, three traitors are secretly lurking, sabotaging their efforts and picking off contestants one by one. In the ultimate game of detection, backstabbing and trust, the loyalists must root out the traitors amongst their ranks in order to win or risk losing everything.
